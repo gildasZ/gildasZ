@@ -63,7 +63,7 @@ I build scalable, real-time AI systems that bridge cutting-edge research with pr
 ## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gildasZ&theme=dark&hide_border=true)  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gildasZ&theme=github-dark&hide_border=true)  
+<!-- ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gildasZ&theme=github-dark&hide_border=true)   -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gildasZ&show_icons=true&count_private=true&hide_border=true&theme=github_dark)
 
 <!-- ## GitHub Stats 📊
