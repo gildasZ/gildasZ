@@ -60,10 +60,16 @@ I build scalable, real-time AI systems that bridge cutting-edge research with pr
 
 <sup>⚙️ I tinker with many proof-of-concepts-edge AI quantization, LoRA-based CIL demos, wearable-data pipelines, etc. </sup>
 
-## GitHub Stats 📊
+## 📊 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gildasZ&theme=dark&hide_border=true)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gildasZ&theme=github-dark&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gildasZ&show_icons=true&count_private=true&hide_border=true&theme=github_dark)
+
+<!-- ## GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gildasZ&show_icons=true&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gildasZ&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gildasZ&layout=compact)  -->
 
 ---
 
