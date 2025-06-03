@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Gildas
 
-**Full-Stack AI Engineer & Systems Architect** | Perception · Edge AI · LLM Orchestration
+**Full-Stack AI Engineer & Systems Architect** | AI · LLM Orchestration · PerceptionEdge
 
 <!-- ![Visitors](https://komarev.com/ghpvc/?username=gildasZ&style=flat&color=0e75b6) -->
 
