@@ -21,15 +21,23 @@ Here are some ideas to get you started:
 
 ---
 
-## About
+## Contact 📫
+
+- 📫 **Email**: contact@cavemindlabs.com 
+- 💻 **GitHub**: [`@gildasZ`](https://github.com/gildasZ) 
+- 🏢 **Organization**: [`CaveMind Labs`](https://github.com/CaveMindLabs)
+
+---
+
+## About 🙋‍♂️
 
 I build scalable, real-time AI systems that bridge cutting-edge research with production-grade software.
 
 - Master’s in Electrical Engineering & Computer Science (NYCU, GPA 4.22/4.30)  
 - Founder, **CaveMind Labs** - applied-AI research & incubation  
-- Focus areas: **agentic LLM orchestration**, continual learning, **next-generation augmented vision**, multimodal perception  
+- Focus areas: **agentic LLM orchestration**, continual learning, **next-generation augmented vision**, multimodal perception
 
-## Core Expertise
+## Core Expertise 🛠️
 
 | Domain | Toolbox |
 | ------ | ------- |
@@ -40,28 +48,23 @@ I build scalable, real-time AI systems that bridge cutting-edge research with pr
 | **DevOps & Cloud** | Docker · Docker Compose · Kubernetes · CI/CD · Cloudflare · Render · Vercel |
 | **Data Engineering** | PostgreSQL · ChromaDB · Redis Streams · real-time pipelines |
 
-## Selected Projects
+## Selected Projects 🚀
 
-| Project | Scope |
-| ------- | ----- |
-| **NoctuaVision** | Real-time low-light video instance-segmentation pipeline for smart-glasses |
-| **Mind Coven** | Multi-agent brainstorming platform (React + FastAPI + SSE) |
-| **Q-A Agent** | Containerized RAG & multi-agent LLM engine (LangChain · FastAPI · Docker) powering cross-domain AI assistants |
-| **ECG Labeling Tool** | Web-based ECG annotation & continual-learning framework |
-| **PRS Genomics Workflow** | End-to-end polygenic risk score pipeline using PRSice2 and R |
+| Project | Scope | Status |
+| ------- | ----- | ------ |
+| **🦉 NoctuaVision** | Real-time low-light video instance-segmentation pipeline for smart-glasses | To be made public |
+| **🧠 Mind Coven** | Multi-agent brainstorming platform (React + FastAPI + SSE) | Closed source; link upcoming |
+| **💬 Q-A Agent** | Containerized RAG + Historical Memory & Agentic LLM engine (LangChain · FastAPI · Docker) | To be made public |
+| **💓 ECG Labeling Tool** | Web-based ECG annotation & continual-learning framework | Completed (private, closed source) |
+| **🧬 PRS Genomics Workflow** | End-to-end polygenic risk score pipeline using PRSice2 and R | Completed during NHRI internship |
 
-<!--## GitHub Stats
+<sup>⚙️ I tinker with many proof-of-concepts-edge AI quantization, LoRA-based CIL demos, wearable-data pipelines, etc. </sup>
+
+## GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gildasZ&show_icons=true&include_all_commits=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gildasZ&layout=compact)-->
-
-## Contact
-
-- **contact@cavemindlabs.com**  
-- GitHub → [`@gildasZ`](https://github.com/gildasZ)  
-- Org → [`CaveMind Labs`](https://github.com/CaveMindLabs)  
-- Blog & Docs → coming soon at **cavemindlabs.com**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gildasZ&layout=compact)
 
 ---
 
-*Currently open to collaboration on agentic LLM systems and edge AI.*
+*🤝 Currently open to collaboration on agentic LLM systems and edge AI.*
