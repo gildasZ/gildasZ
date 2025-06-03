@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 I build scalable, real-time AI systems that bridge cutting-edge research with production-grade software.
 
-- Master’s in Electrical Engineering & Computer Science (NYCU, GPA 4.22/4.30)  
+- Master’s in Electrical Engineering & Computer Science ([NYCU](https://www.nycu.edu.tw/nycu/en), GPA 4.22/4.30)  
 - Founder, **CaveMind Labs** - applied-AI research & incubation  
 - Focus areas: **agentic LLM orchestration**, continual learning, **next-generation augmented vision**, multimodal perception
 
