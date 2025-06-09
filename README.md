@@ -52,7 +52,8 @@ I build scalable, real-time AI systems that bridge cutting-edge research with pr
 
 | Project | Scope | Status |
 | ------- | ----- | ------ |
-| [**🦉 Noctua Vision**](https://github.com/gildasZ/noctura-vision) | Real-time low-light video instance-segmentation pipeline for smart-glasses | To be made public |
+<!-- | [**🦉 Noctua Vision**](https://github.com/gildasZ/noctura-vision) | Real-time low-light video instance-segmentation pipeline for smart-glasses | To be made public | -->
+| **🦉 Noctua Vision** | Real-time low-light video instance-segmentation pipeline for smart-glasses | Link upcoming |
 | **🧠 Mind Coven** | Multi-agent brainstorming platform (React + FastAPI + SSE) | Closed source; link upcoming |
 | **💬 Q-A Agent** | Containerized RAG + Historical Memory & Agentic LLM engine (LangChain · FastAPI · Docker) | To be made public |
 | **💓 ECG Labeling Tool** | Web-based ECG annotation & continual-learning framework | Completed (private, closed source) |
