@@ -54,11 +54,12 @@ I build scalable, real-time AI systems that bridge cutting-edge research with pr
 
 | Project | Scope | Status |
 | ------- | ----- | ------ |
-| **🦉 Noctua Vision** | Real-time low-light video instance-segmentation pipeline for smart-glasses | Link upcoming |
+| **🦉 Uformer Hub Service** | Production-grade AI Image & Video Restoration Service (FastAPI, Next.js, Docker) | [GitHub Repo](https://github.com/CaveMindLabs/uformer-hub-service) <br> [YouTube Demo](https://www.youtube.com/watch?v=ncc1vPxfz48) |
 | **🧠 Mind Coven** | Multi-agent brainstorming platform (React + FastAPI + SSE) | Closed source; link upcoming |
 | **💬 Q-A Agent** | Containerized RAG + Historical Memory & Agentic LLM engine (LangChain · FastAPI · Docker) | To be made public |
 | **💓 ECG Labeling Tool** | Web-based ECG annotation & continual-learning framework | Completed (private, closed source) |
 | **🧬 PRS Genomics Workflow** | End-to-end polygenic risk score pipeline using PRSice2 and R | Completed during NHRI internship |
+<!--| **🦉 Noctua Vision** | Real-time low-light video instance-segmentation pipeline for smart-glasses | Link upcoming |-->
 
 <sup>⚙️ I tinker with many proof-of-concepts-edge AI quantization, LoRA-based CIL demos, wearable-data pipelines, etc. </sup>
 
